@@ -9,6 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+  display: flex;
 }
 
 .title {
@@ -27,6 +28,7 @@
 
 .aboutImage {
   width: 35%;
+  float: left; /* Position the image to the left */
 }
 
 .aboutItems {

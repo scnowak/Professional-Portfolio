@@ -9,8 +9,13 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello Everyone! I'm Shan</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 6 months of experience using React and
-          NodeJS. I've just finished a full-stack coding bootcamp through SMU!
+        Welcome to my portfolio page, built with React and curated by me, Shan Nowak. Here, you'll 
+        discover a curated selection of projects I've contributed to throughout my journey. Equipped 
+        with full-stack expertise acquired from the Southern Methodist web developer program, I'm 
+        equipped to tackle a wide array of challenges. Additionally, I hold a Bachelor's degree in 
+        Computer Information Systems from Tarleton State University.
+         
+         
         </p>
         <a href="mailto:shan.nowak93@gmail.com" className={styles.contactBtn}>
           Contact Me

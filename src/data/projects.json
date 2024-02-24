@@ -1,0 +1,90 @@
+[
+    {
+      "title": "My First Project-Horiseon",
+      "imageSrc": "projects/horiseon.png",
+      "description": "Create a simple web page with a nav bar and links",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://scnowak.github.io/marketing-site/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "JavaScript Challenge: Password Generator",
+      "imageSrc": "projects/pswdgen.png",
+      "description": "Creates a password with specifications.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://scnowak.github.io/random-pswd-generator/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Third-Party APIs Challenge: Work Day Scheduler",
+      "imageSrc": "projects/wkdaysched.png",
+      "description": "A simple calendar app for scheduling your work day",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://scnowak.github.io/work-day-scheduler-3rdPartyAPIs/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Server-Side APIs Challenge: Weather Dashboard",
+      "imageSrc": "projects/weather.png",
+      "description": "A website that allows the user see the weather outlook for multiple cities. The user can enter a city and see a 5-Day Forecast. The user can see the temperature, humidity levels, wind speed as well as the UV index.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": " https://scnowak.github.io/Weather-Dashboard-ServerSideAPIs/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Model-View-Controller-MVC-Challenge-Tech-Blog ",
+      "imageSrc": "projects/mvcTechBlog.png",
+      "description": "Simple blog site",
+      "skills": ["JavaScript", "Handlebars", "CSS"],
+      "demo": "https://drive.google.com/file/d/1-zcRjct2VdjZjeZAmc2MwBkCOZjYNrbE/view",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "NoSQL Challenge: Social Network API",
+      "imageSrc": "projects/SOCNETWORK.png",
+      "description": "Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. ",
+      "skills": ["Express.js", "MongoDB database", "Mongoose ODM", "Node.js"],
+      "demo": "https://github.com/scnowak/MOD-18-NoSQL-Challenge-Social-Network-API",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Progressive Web Applications (PWA) Challenge: Text Editor",
+      "imageSrc": "projects/jate.png",
+      "description": "This is simple text editor.",
+      "skills": ["JavaScript", "HTML", "CSS", "Heroku"],
+      "demo": "https://pwa-with-jate-bdca3d62036d.herokuapp.com/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Taste Buds Unite",
+      "imageSrc": "projects/tastebuds.png",
+      "description": "Food and wine pairing website. Group Project",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://tishaanderson.github.io/TasteBudsUnite/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "Plant Pal",
+      "imageSrc": "projects/plantpal.png",
+      "description": "Project allows you to login and pick indoor and outdoor plants in a personal list. Group Project",
+      "skills": ["JavaScript", "Handlebars", "CSS", "Heroku"],
+      "demo": "https://plant-pal-texas-1fa9c57facba.herokuapp.com/",
+      "source": "https://www.github.com/scnowak"
+    },
+    {
+      "title": "SVG Logo Maker",
+      "imageSrc": "projects/svglogo.png",
+      "description": "Logo Maker that you can choose a letter and a shape to display it in",
+      "skills": ["JavaScript"],
+      "demo": "https://drive.google.com/file/d/1usWbTm-kDc9GoSi1pen6yf3DsKr0kwYE/view",
+      "source": "https://www.github.com/scnowak"
+    },    
+    {
+      "title": "Gym Genius",
+      "imageSrc": "projects/project.png",
+      "description": "An app so that the user can keep up with his/her workout at home or on the road",
+      "skills": ["", "", ""],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }  
+  ]

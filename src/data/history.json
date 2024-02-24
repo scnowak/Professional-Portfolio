@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Webmaster",
+      "organisation": "Strawn ISD",
+      "startDate": "",
+      "endDate": "",
+      "experiences": ["Designed, developed, and implemented district website from conception to launch"],
+      "imageSrc": "history/webmaster.png"
+    },
+    {
+      "role": "Computer Science Teacher (6th-12th grade)",
+      "organisation": "Strawn ISD",
+      "startDate": "",
+      "endDate": "",
+      "experiences": ["Educate students on how computers work, from basic operations of storing and processing information to software specifics, including software tools, and programming."],
+      "imageSrc": "history/teacher.png"
+    },
+    {
+      "role": "Programmer/Analyst",
+      "organisation": "National Foundation Life Insurance Company",
+      "startDate": "",
+      "endDate": "",
+      "experiences": [
+        "Implemented and updated new and existing corporate health products using COBOL, IBM JCL, VSE, VSAM."
+      ],
+      "imageSrc": "history/programmer.png"
+    }
+  ]
