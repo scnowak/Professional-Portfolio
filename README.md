@@ -14,7 +14,8 @@ Being a web developer means being part of a community. We all need a place to sh
 * [Acceptance Criteria](#acceptance-criteria)
 * [Screenshots](#screenshots)
 * [Link](#link)
-* [Usage](#usage)
+* [Contact](#contact)
+
 
 ## License 
 This project is licensed under MIT ![GitHub license](http://img.shields.io/badge/license-MIT-blue.svg)
@@ -25,9 +26,11 @@ This project is licensed under MIT ![GitHub license](http://img.shields.io/badge
 ## Installation 
 
 1. Clone the repository from GitHub
-1. Install `node.js`
-1. Run `npm install` to install dependencies. 
-1. Run `npm start` to start the web server and connect
+2. Install `node.js`
+3. Run `npm install` to install dependencies. 
+4. Run `npm start` to start the web server and connect
+5. Deploy in netlify
+
 
 ## User Story
 
@@ -82,6 +85,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Link 
 <a href="https://scnowak.github.io/Professional-Portfolio/">Click Here for github link</a>
 
-## Usage 
-
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
+## Contact
+GITHUB: https://github.com/scnowak    
+<BR>
+EMAIL:  SHAN.NOWAK93@GMAIL.COM
